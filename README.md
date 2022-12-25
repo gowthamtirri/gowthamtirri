@@ -2,6 +2,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 
-## Social
-instagram: @gowthamtirri <br>
-Linkedin: @gowthamtirri
+#### Connect
+  * Instagram: @gowthamtirri <br>
+  * Linkedin: @gowthamtirri <br>
+  * YouTube : @gowthamtirri
