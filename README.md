@@ -14,9 +14,9 @@
 
 
 #### 🌍 Let's Connect
-  * 📸 [Instagram](https://instagram.com/gowthamtirri)
   * 🔗 [Linkedin](https://linkedin.com/in/gowthamtirri) 
   * 🎥 [YouTube](https://youtube.com/c/gowthamtirri) 7K+ Community ❤️
+  * 📸 [Instagram](https://instagram.com/gowthamtirri)
 
 <p align="center">
     💡 Have an idea? Let's join forces to create something stellar!
